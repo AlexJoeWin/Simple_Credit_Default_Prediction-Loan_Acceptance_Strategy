@@ -67,9 +67,9 @@ scikit-learn
 ## 📂 File Structure
 
 ```
-├── cr_loan_preprocessed.csv   # Cleaned input data
-├── loan_default_model.py      # Main training and evaluation script
-├── README.md                  # Project overview and instructions
+├── cr_loan_preprocessed.csv                     # Cleaned and preprocessed input data
+├── simple_credit_default_prediction.ipynb       # Main script
+├── README.md                                    # Project overview
 ```
 
 ---
