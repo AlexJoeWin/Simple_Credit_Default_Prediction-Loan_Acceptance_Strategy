@@ -76,8 +76,7 @@ scikit-learn
 
 ## 🛠️ How to Run
 
-```
-```
+
 
 Make sure `cr_loan_preprocessed.csv` is in the same directory.
 
